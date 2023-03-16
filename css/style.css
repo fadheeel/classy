@@ -247,7 +247,7 @@ section{
 
 .product {
   position: relative;
-  flex: 340px;
+  flex: 330px;
 }
 
 .product:hover h5,
